@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/anr2657/argocd-demo.git
+    repoURL: https://github.com/anrao2657/argocd-demo.git
     targetRevision: main
     path: helm-nginx
     helm:
